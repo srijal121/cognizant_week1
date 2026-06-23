@@ -1,0 +1,14 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+class Circle extends Shape {
+   Circle() {
+   }
+
+   void draw() {
+      System.out.println("Drawing Circle");
+   }
+
+   public static void main(String[] var0) {
+      Circle var1 = new Circle();
+      var1.draw();
+   }
+}
